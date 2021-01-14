@@ -4,9 +4,9 @@ Sistema que permite mostrar a los pequeños viñedos y poder competir con las gr
 
 ## Técnologias
 
-Wordpress
-Boostrap
-CSS
-Javascript
-MySQL
-Git
+- Wordpress
+- Boostrap
+- CSS
+- Javascript
+- MySQL
+- Git
